@@ -1,0 +1,8 @@
+{
+  "name": "teste_comandos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "764052e5"
+}
